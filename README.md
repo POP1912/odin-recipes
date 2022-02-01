@@ -1,2 +1,4 @@
 # odin-recipes
-TOP foundations course first project "Recipes"
+The Odin Project(TOP) foundations course first project "Recipes"
+
+In this course, I may be implementing my learning on Basic HTML and CSS.
